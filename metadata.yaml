@@ -1,0 +1,30 @@
+_repo: Confessions-of-a-Railroad-Signalman_63374
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fagan, James O. (James Octavius)
+    aliases:
+    - Fagan, J. O. (James Octavius)
+    - Fagan, James Octavius
+    birthdate: 1859
+    gutenberg_agent_id: '52408'
+    url: http://www.gutenberg.org/2009/agents/52408
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads'
+- !lcsh 'Railroad accidents'
+- !lcc 'HE'
+- !lcsh 'Railroads -- United States -- Employees'
+- GITenberg
+tableOfContents: A railroad man to railroad men -- The men -- The management -- Loyalty
+  -- The square deal -- The human equation -- Discipline.
+title: Confessions of a Railroad Signalman
+url: http://www.gutenberg.org/ebooks/63374
